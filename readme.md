@@ -16,3 +16,6 @@ This request will create the Bangladesh team.
 By following these steps in the specified order, you will successfully add players and create teams in your application.
 
 use .env.example to create .env file
+
+Create user with {username, password} using POST request at http://localhost:8080/admin/create route
+and then you can login using that username and password for admin.
