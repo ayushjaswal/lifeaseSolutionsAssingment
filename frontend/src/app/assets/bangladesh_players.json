@@ -1,0 +1,60 @@
+{
+    "teamFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1920px-Flag_of_Bangladesh.svg.png",
+    "teamName": "Bangladesh",
+    "players": [
+        {
+            "name": "Shakib Al Hasan",
+            "role": "Captain",
+            "formats": [
+                "ODI",
+                "T20I",
+                "Test"
+            ]
+        },
+        {
+            "name": "Tamim Iqbal",
+            "role": "Batsman",
+            "formats": [
+                "ODI",
+                "T20I",
+                "Test"
+            ]
+        },
+        {
+            "name": "Mushfiqur Rahim",
+            "role": "Batsman/Wicketkeeper",
+            "formats": [
+                "ODI",
+                "T20I",
+                "Test"
+            ]
+        },
+        {
+            "name": "Mustafizur Rahman",
+            "role": "Bowler",
+            "formats": [
+                "ODI",
+                "T20I",
+                "Test"
+            ]
+        },
+        {
+            "name": "Mahmudullah",
+            "role": "All-rounder",
+            "formats": [
+                "ODI",
+                "T20I",
+                "Test"
+            ]
+        },
+        {
+            "name": "Soumya Sarkar",
+            "role": "All-rounder",
+            "formats": [
+                "ODI",
+                "T20I",
+                "Test"
+            ]
+        }
+    ]
+}
